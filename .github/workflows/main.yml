@@ -45,4 +45,4 @@ jobs:
           branch: 'master'
           commit_message: 'Update Host'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TEST }}
