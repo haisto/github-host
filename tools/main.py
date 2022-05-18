@@ -59,7 +59,9 @@ sites = [
     "live.github.com",
     "githubapp.com",
     "github.dev",
-    "github.com"
+    "github.com",
+    "cdn.jsdelivr.net",
+    "ops.haisto.cn"
 ]
 
 addr2ip = {}
